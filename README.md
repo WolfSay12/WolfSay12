@@ -32,4 +32,4 @@ __Mes Stats GitHub__
 
 __Languages de Programmation__
 
-![image](https://github.com/WolfSay12/WolfSay12/assets/125210979/6608c96a-6131-4e08-86c3-04a5ff40cbe2)
+![Languages de Programmation](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfSay12&layout=compact)
