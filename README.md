@@ -17,6 +17,11 @@ Il dispose également d'un système économique, pour que vous n'ayez plus jamai
 
 [Rejoindre Sɑγɑ PUB !](https://discord.gg/Q555wpjvHa)
 
+__Projets__
+
+Bah comme vous pouvez le voir (et le deviner), j'ai crée un serveur publicitaire. Mais en PLUS de ça, bah comme vous pouvez *aussi* le deviner, je travail sur un bot Discord : Atra BOT. Bon bien sûr j'ai 3 "clones" de ce bot : [-CANARY] Atra BOT pour les grosses nouveatés, [-DEV] Atra BOT, pour les derniers réglages, et le Atra BOT tout court, la version officielle. Je travail actuellement sur le DEV.
+
+J'ai acuellement été recruté dans un projet de Framework de discord.js : [Serene-API](https://github.com/Serene-API/discord-bot).
 
 __Mon activié en temps réel sur Discord__
 
@@ -33,3 +38,9 @@ __Mes Stats GitHub__
 __Languages de Programmation__
 
 ![Languages de Programmation](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfSay12&layout=compact)
+
+__Me contacter__
+
+*Mail :* `contact.wolfsaygmail@gmail.com`
+
+*Discord :* `wolfsay4`
