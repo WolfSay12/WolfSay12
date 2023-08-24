@@ -43,4 +43,4 @@ __Me contacter__
 
 *Mail :* `contact.wolfsaygmail@gmail.com`
 
-*Discord :* `wolfsay4`
+*Discord :* `wolfsay`
