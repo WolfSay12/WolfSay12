@@ -2,7 +2,7 @@
 
 __Présentation__
 
-Hey ! Je m'appelle WolfSay et je suis un jeune développeur JavaScript  (je bosse surtout avec la bibliothèque [Node.js](https://nodejs.org/fr) & [Discord.js](https://discord.js.org/) pour les bots discord !) Bien que débutant dans ce domaine, le codage m'intéresse vraiment. Je suis également présent sur [Discord](https://discord.com/) et y est très actif (noraml pour un créateur de bots discord ;). Je fais d'ailleurs partie de l'Equipe SereneTech (qui m'aide aussi pour le développement d'Atra BOT).
+Hey ! Je m'appelle WolfSay et je suis un jeune développeur JavaScript  (je bosse surtout avec la bibliothèque [Node.js](https://nodejs.org/fr) & [Discord.js](https://discord.js.org/) pour les bots discord !) Bien que débutant dans ce domaine, le codage m'intéresse vraiment. Je suis également présent sur [Discord](https://discord.com/) et j'y suis très actif (normal pour un créateur de bots discord ;). Je fais d'ailleurs partie de l'Equipe SereneTech (qui m'aide aussi pour le développement d'Atra BOT).
 
 __Centres d'intérêt__
 
