@@ -2,26 +2,16 @@
 
 __Présentation__
 
-Hey ! Je m'appelle WolfSay et je suis un jeune développeur JavaScript (plus précisemment de [Node.js](https://nodejs.org/fr)) ! Bien que débutant dans ce domaine, le codage m'intéresse vraiment. Je suis également présent sur [Discord](https://discord.com/) et y est très actif. Je suis actuellement owern d'un serveur et Aide sur [DraftBot Support](https://discord.gg/draftbot-support). Vous pouvez aussi me retrouver sur [mon linktr.ee](https://lintr.ee/_wolfsay).
+Hey ! Je m'appelle WolfSay et je suis un jeune développeur JavaScript  (je bosse surtout avec la bibliothèque [Node.js](https://nodejs.org/fr) & [Discord.js](https://discord.js.org/) pour les bots discord !) Bien que débutant dans ce domaine, le codage m'intéresse vraiment. Je suis également présent sur [Discord](https://discord.com/) et y est très actif (noraml pour un créateur de bots discord ;). Je fais d'ailleurs partie de l'Equipe SereneTech (qui m'aide aussi pour le développement d'Atra BOT).
 
 __Centres d'intérêt__
 
-Je partique actuellement du HandBall, un sport collectif qui me tient à coeur. Je joue également de l'Accordéon (conservatoire) & du Piano (pas de cours, juste à l'oreille). Je vais bien sur en cours, mange et dort comme tout humain *normal*.
+J'aime geeker. Nan, j'adore geeker. Bref je passe ma vie sur un ordi, mais j'essaie de faire chuter le nombre d'heures ou je suis dessus 👀 Et je fais du sport et de la musique. Je mange, je dors, (et je vais en cours 😭) comme les gens de mon âge
 
-__Mon discord__
-
-Sɑγɑ PUB est un serveur Publicitaire & Communautaire qui servira à faire connaitre votre serveur, et/ou à vous amuser, rencontrer d'autres personnes ou encore poser vos questions sur Discord.
-Il dispose également d'un système économique, pour que vous n'ayez plus jamais besoin de vider vos poches pour des promotions !
-
-![Discord](https://img.shields.io/discord/1119941770189479942?logo=discord&logoColor=%235865F2&label=Saya%20PUB)
-
-[Rejoindre Sɑγɑ PUB !](https://discord.gg/Q555wpjvHa)
 
 __Projets__
 
-Bah comme vous pouvez le voir (et le deviner), j'ai crée un serveur publicitaire. Mais en PLUS de ça, bah comme vous pouvez *aussi* le deviner, je travail sur un bot Discord : Atra BOT. Bon bien sûr j'ai 3 "clones" de ce bot : [-CANARY] Atra BOT pour les grosses nouveatés, [-DEV] Atra BOT, pour les derniers réglages, et le Atra BOT tout court, la version officielle. Je travail actuellement sur le DEV.
-
-J'ai acuellement été recruté dans un projet de Framework de discord.js : [Serene-API](https://github.com/Serene-API/discord-bot).
+Comme vous l'avez deviné, je travaille sur un bot Discord : Atra BOT. Je l'ai commencé vers début septembre, publié ver fin de l'année 2023 et maintenant, il reçoit des MàJ régulières, pour laisser paraitre de nouvelles fonctionnalitées qui lui ressemblent : Fun & Utile !
 
 __Mon activié en temps réel sur Discord__
 
